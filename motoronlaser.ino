@@ -105,9 +105,9 @@ void quitfunc() {
 
 void examplefunc() {
   if (receivedstring.equals("example")){
-    mot1percentspeedunconstrained = 50;
-    mot2percentspeedunconstrained = 51;
-    mot3percentspeedunconstrained = 49;
+    mot1percentspeedunconstrained = 100;
+    mot2percentspeedunconstrained = 20;
+    mot3percentspeedunconstrained = 0;
   }
 }
 
